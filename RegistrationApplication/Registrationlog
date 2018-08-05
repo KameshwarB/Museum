@@ -1,0 +1,122 @@
+exception occured
+com.batman.registrationapplication.exception.registrationException: [
+ Phone Number Should be in 10 digit , 
+ Amount Should be a positive Number ]
+	at com.batman.registrationapplication.service.registrationServiceImpl.validateregistration(registrationServiceImpl.java:100)
+	at com.batman.registrationapplication.pi.registrationMain.populateregistrationBean(registrationMain.java:228)
+	at com.batman.registrationapplication.pi.registrationMain.main(registrationMain.java:55)
+exception occured
+com.batman.registrationapplication.exception.registrationException: [
+ Phone Number Should be in 10 digit , 
+ Amount Should be a positive Number ]
+	at com.batman.registrationapplication.service.registrationServiceImpl.validateregistration(registrationServiceImpl.java:100)
+	at com.batman.registrationapplication.pi.registrationMain.populateregistrationBean(registrationMain.java:228)
+	at com.batman.registrationapplication.pi.registrationMain.main(registrationMain.java:55)
+exception occured
+com.batman.registrationapplication.exception.registrationException: [
+ Phone Number Should be in 10 digit , 
+ Amount Should be a positive Number ]
+	at com.batman.registrationapplication.service.registrationServiceImpl.validateregistration(registrationServiceImpl.java:100)
+	at com.batman.registrationapplication.pi.registrationMain.populateregistrationBean(registrationMain.java:228)
+	at com.batman.registrationapplication.pi.registrationMain.main(registrationMain.java:55)
+exception occured
+com.batman.registrationapplication.exception.registrationException: [
+ Phone Number Should be in 10 digit 
+, 
+ Amount Should be a positive Number 
+]
+	at com.batman.registrationapplication.service.registrationServiceImpl.validateregistration(registrationServiceImpl.java:100)
+	at com.batman.registrationapplication.pi.registrationMain.populateregistrationBean(registrationMain.java:228)
+	at com.batman.registrationapplication.pi.registrationMain.main(registrationMain.java:55)
+exception occured
+com.batman.registrationapplication.exception.registrationException: [
+ Phone Number Should be in 10 digit 
+, 
+ Amount Should be a positive Number 
+]
+	at com.batman.registrationapplication.service.registrationServiceImpl.validateregistration(registrationServiceImpl.java:100)
+	at com.batman.registrationapplication.pi.registrationMain.populateregistrationBean(registrationMain.java:228)
+	at com.batman.registrationapplication.pi.registrationMain.main(registrationMain.java:55)
+exception occured
+com.batman.registrationapplication.exception.registrationException: [
+ Amount Should be a positive Number 
+]
+	at com.batman.registrationapplication.service.registrationServiceImpl.validateregistration(registrationServiceImpl.java:100)
+	at com.batman.registrationapplication.pi.registrationMain.populateregistrationBean(registrationMain.java:228)
+	at com.batman.registrationapplication.pi.registrationMain.main(registrationMain.java:55)
+ORA-00942: table or view does not exist
+
+ORA-00942: table or view does not exist
+
+ORA-00942: table or view does not exist
+
+ORA-02289: sequence does not exist
+
+ORA-00932: inconsistent datatypes: expected NUMBER got DATE
+
+exception occured
+com.batman.registrationapplication.exception.registrationException: [
+ Address Should Be Greater Than 5 Characters 
+]
+	at com.batman.registrationapplication.service.registrationServiceImpl.validateregistration(registrationServiceImpl.java:100)
+	at com.batman.registrationapplication.pi.registrationMain.populateregistrationBean(registrationMain.java:229)
+	at com.batman.registrationapplication.pi.registrationMain.main(registrationMain.java:55)
+exception occured
+com.batman.registrationapplication.exception.registrationException: [
+ Address Should Be Greater Than 5 Characters 
+]
+	at com.batman.registrationapplication.service.registrationServiceImpl.validateregistration(registrationServiceImpl.java:100)
+	at com.batman.registrationapplication.pi.registrationMain.populateregistrationBean(registrationMain.java:229)
+	at com.batman.registrationapplication.pi.registrationMain.main(registrationMain.java:55)
+exception occured
+com.batman.registrationapplication.exception.registrationException: [
+ Address Should Be Greater Than 5 Characters 
+]
+	at com.batman.registrationapplication.service.registrationServiceImpl.validateregistration(registrationServiceImpl.java:100)
+	at com.batman.registrationapplication.pi.registrationMain.populateregistrationBean(registrationMain.java:229)
+	at com.batman.registrationapplication.pi.registrationMain.main(registrationMain.java:55)
+ORA-00932: inconsistent datatypes: expected NUMBER got DATE
+
+ORA-00932: inconsistent datatypes: expected NUMBER got DATE
+
+exception occured
+com.batman.registrationapplication.exception.registrationException: [
+ Address Should Be Greater Than 5 Characters 
+]
+	at com.batman.registrationapplication.service.registrationServiceImpl.validateregistration(registrationServiceImpl.java:100)
+	at com.batman.registrationapplication.pi.registrationMain.populateregistrationBean(registrationMain.java:229)
+	at com.batman.registrationapplication.pi.registrationMain.main(registrationMain.java:55)
+ORA-00932: inconsistent datatypes: expected NUMBER got DATE
+
+exception occured
+com.batman.registrationapplication.exception.registrationException: [
+ Address Should Be Greater Than 5 Characters 
+]
+	at com.batman.registrationapplication.service.registrationServiceImpl.validateregistration(registrationServiceImpl.java:100)
+	at com.batman.registrationapplication.pi.registrationMain.populateregistrationBean(registrationMain.java:229)
+	at com.batman.registrationapplication.pi.registrationMain.main(registrationMain.java:55)
+ORA-00932: inconsistent datatypes: expected NUMBER got DATE
+
+exception occured
+com.batman.registrationapplication.exception.registrationException: Tehnical problem occured refer log
+	at com.batman.registrationapplication.dao.registrationDaoImpl.addregistrationDetails(registrationDaoImpl.java:87)
+	at com.batman.registrationapplication.service.registrationServiceImpl.addregistrationDetails(registrationServiceImpl.java:30)
+	at com.batman.registrationapplication.pi.registrationMain.main(registrationMain.java:61)
+registration details added successfully:
+Record Not Found Successfully
+Record Not Found Successfully
+Record Not Found Successfully
+Record Found Successfully
+Record Found Successfully
+2016-11-18-main-INFO -root      :Record Not Found Successfully
+2016-11-18-main-INFO -root      :registration details added successfully:
+2016-11-18-main-INFO -root      :registration details added successfully:
+2016-11-18-main-ERROR-root      :exception occured
+com.registration.registrationapplication.exception.registrationException: [
+ Address Should Be Greater Than 5 Characters 
+]
+	at com.registration.registrationapplication.service.registrationServiceImpl.validateregistration(registrationServiceImpl.java:100)
+	at com.registration.registrationapplication.pi.registrationMain.populateregistrationBean(registrationMain.java:226)
+	at com.registration.registrationapplication.pi.registrationMain.main(registrationMain.java:55)
+2016-11-18-main-INFO -root      :registration details added successfully:
+2016-11-18-main-INFO -root      :Record Found Successfully
